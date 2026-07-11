@@ -6,6 +6,8 @@ Minecraft 1.21.1 - NeoForge
 
 Servant s'articule désormais autour de compagnons rares, trouvés dans le monde, libérés, recrutés, équipés puis orientés vers un rôle. Leur travail se déroule réellement dans Minecraft : ils se déplacent, utilisent des outils, transportent des objets, mangent, combattent et interagissent avec les lieux construits pour eux.
 
+> **Note de développement :** cette release m'a coûté une nuit blanche, et j'ai fini par m'endormir sur mon bureau sans même me sentir partir. SVP, me tapez pas s'il y a encore des bugs :'(
+
 ## Release.1 - Dernières finitions
 
 - Les accessoires permettant de marcher sur l'eau influencent désormais le pathfinding en plus des déplacements. Tant que l'effet est actif, la surface de l'eau est considérée comme un sol solide.
